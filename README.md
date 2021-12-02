@@ -1,4 +1,4 @@
-# Data-Minning-and-exploration-of-Hospital-Data
+# Data-Minning-and-exploration-of-Hospital-Patient-Data
 
 06/06/2021
 
